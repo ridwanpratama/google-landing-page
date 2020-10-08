@@ -1,1 +1,1 @@
-Landing Page Google made using Html & SCSS
+Landing Page Google yang dibuat menggunakan Html & SCSS
